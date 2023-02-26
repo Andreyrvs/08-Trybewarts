@@ -1,5 +1,36 @@
-Project Trybewarts
+# Trybewarts Wizarding School
 
-Esse projeto foi feito em Dupla com [Julio Rieger](https://www.linkedin.com/in/juliorieger/)
+## Contexto
 
-O diretorio: images/ Foi disponibilizado Pela [TRYBE](https://www.betrybe.com/). Eu utilizo as imagens nesse projeto
+Projeto realizado em dupla com [Julio Rieger](https://www.linkedin.com/in/juliorieger/ "linkedin")
+
+Este projeto é uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. *O tema desse projeto é baseado na obra 'Harry Potter', de J.K. Rowling*.
+
+## Aplicação
+
+![TrybeWarts]()
+
+> O diretorio: images/ Foi disponibilizado Pela [TRYBE](https://www.betrybe.com/). Eu utilizo as imagens nesse projeto
+
+## Técnologias usadas
+
+Front-end:
+> Desenvolvido usando: React, Redux, CSS3, HTML5, Redis, ES6
+
+## Instalando Dependências
+
+* clone o projeto:
+
+  ```bash
+  git clone git@github.com:Andreyrvs/08-Trybewarts.git
+  ```
+
+## Executando aplicação
+
+* Para rodar o front-end:
+
+  ```bash
+  cd 08-Trybewarts
+  ```
+
+> A aplicação utiliza a resolução 1366 x 768
