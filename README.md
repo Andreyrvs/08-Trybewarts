@@ -8,14 +8,16 @@ Este projeto é uma página de formulário da Escola de Magia de Trybewarts, em 
 
 ## Aplicação
 
-![TrybeWarts]()
+utilize o email **tryber@teste.com** e senha **123456**
+
+![TrybeWarts](./08-Trybewarts.png)
 
 > O diretorio: images/ Foi disponibilizado Pela [TRYBE](https://www.betrybe.com/). Eu utilizo as imagens nesse projeto
 
 ## Técnologias usadas
 
 Front-end:
-> Desenvolvido usando: React, Redux, CSS3, HTML5, Redis, ES6
+> Desenvolvido usando: HTML, CSS, CSS Flexbox, JavaScript
 
 ## Instalando Dependências
 
@@ -32,5 +34,7 @@ Front-end:
   ```bash
   cd 08-Trybewarts
   ```
+
+* Clique duas vezes no arquivo `index.html`
 
 > A aplicação utiliza a resolução 1366 x 768
